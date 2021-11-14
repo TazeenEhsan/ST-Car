@@ -1,0 +1,9 @@
+.nav-container{
+    text-align: center;
+    
+}
+.nav-bg{
+    background-color: rgb(95, 166, 233);
+    border-radius: 15px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Paris,France The City of Lights",
+        "content": "Paris needs no formal introduction - synonymous with culture, architecture, food and fashion. That je ne sais quoi of the French capital makes it the dream destination for many. So would you want to leave Paris 'Before Sunset' or would you take our word and spend a 'Midnight in Paris'?!",
+        "fee": 2500,
+        "img": "https://i.ibb.co/ZhLfwPQ/Paris-France-The-City-of-Lights.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Machu Picchu, Peru",
+        "content": "One of the most recently discovered ruins, the Incan ruins of Machu Picchu continue to astound historians, archaeologists and historical enthusiasts alike. A mystery of its real purpose surrounds the place and historians till date continue to debate on the matter. A hotspot within the ruins itself, The Temple of the Sun is known for having windows perfectly positioned to let the rays of the sun inside in intricate patterns.",
+        "fee": 2500,
+        "img": "https://i.ibb.co/CwSGY0K/Machu-Picchu-Peru.jpg"
+    },
+    {
+        "id": 3,
+        "name": "New Zealand - The Land Where Adventures Wait",
+        "content": "New Zealand lies in the Pacific Ocean, to the southwest. New Zealand promises beautiful landscapes and serene, equally beautiful coastlines that you can drive along, listening to the sound of the surf. The country is also known for its adventure sports activities as well as its museums, art galleries and other heritage attractions.",
+        "fee": 2500,
+        "img": "https://i.ibb.co/kXbZ770/New-Zealand.jpg"
+    },
+    {
+        "id": 4,
+        "name": " Bora Bora, French-Polynesia - A colossal cosmos encircled by a mystique lagoon",
+        "content": "Welcome to the fantasy of a dreamy island with utmost perfectional beauty- This is how the pictures of Bora Bora entice you for a vacation. A part of French Polynesia, this magical island has some of the most beautiful sights to behold- a tropical island surrounded by the amazing blue lagoon and coral reefs, accompanied by small islets (Motus) scattered around Bora Bora.",
+        "fee": 2500,
+        "img": "https://i.ibb.co/Xxj89gB/BORA-BORA.jpg"
+    },
+    {
+        "id": 5,
+        "name": "London, England: The heritage of England",
+        "content": "Standing on the Thames River, London is the capital of England as well as the most populous city in Great Britain. The city is a confluence of the old and the new and is one of the top tourist destinations in the world. It is a city with numerous attractions of all sorts including great architecture and heritage. London is made of two ancient cities which are now merged together to form the capital. The two cities are The city of London and the City of Westminster. Together, they are known as Greater London.",
+        "fee": 2500,
+        "img": "https://i.ibb.co/qpMD84N/LONDON.jpg"
+    },
+    {
+        "id": 6,
+        "name": " Great Barrier Reef, Australia - Nature's Biggest Marvel",
+        "content": "Stretching for 2300 kilometres off the east coast of Australia, the Great Barrier Reef is one of nature's greatest marvels. It is officially the biggest structure made by living organisms and can be seen from even outer space!! Blessed with abundant marine flora and fauna, visitors are always enthralled by the sheer beauty of this unique ecosystem. Snorkelling and diving are some of the most popular activities here to get a first-hand experience of the marine life.",
+        "fee": 2500,
+        "img": "https://i.ibb.co/VV0hqWL/GREAT-BARRIER-REEF.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Maldives, Maldives - A Tropical Haven",
+        "content": "The Maldives, a tropical haven of immaculate beaches, are an archipelago of 1,192 coral islands grouped into natural atolls, out of which only a few are inhabited. Time stands still in the Maldives as you lie on the white sand beaches, hearing the crystal clear waves crash against the seashore, swim with the manta rays and reef sharks and feast on a wide array of fishes with the locals. Be it adventure or leisure, Maldives is your answer. With its sun-kissed beaches, palm-fringed islands, crystalline lagoons and pristine waters, Maldives enthrals and draws visitors all year round.",
+        "fee": 2500,
+        "img": "https://i.ibb.co/5LnKhYM/MALDIVES.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Bali, Indonesia - An idyllic retreat",
+        "content": "Indonesia's most famous island, Bali is the best place for any tourist who needs a week of absolute relaxation, fragrant cuisine, scenic beauty and a galore of culture and tradition. With its elaborate temples, endless coastline, scenic coral reefs, waterfalls and retreats, Bali is indeed, a place of leisure and idyll, and simultaneously, a place for the adventurous and the explorers. The island boasts some of the best sunsets and sunrises, enough to captivate and entice you into never leaving this tourist trap.",
+        "fee": 2500,
+        "img": "https://i.ibb.co/YZRsgtZ/BALI.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Istanbul, Turkey",
+        "content": "Turkey's capital city is another destination that offers a great mix of culture, food, and history. There are thousands of years of history here, starting with Ancient Greeks and Ancient Romans and leading up through the Ottoman Empire.It's an Islamic country with a secular government, so it's a good place for Western tourists to experience Islamic culture. There's a mix of the new and the timeless here unlike anywhere else.",
+        "fee": 2500,
+        "img": "https://i.ibb.co/ngzNLxJ/Istanbul-Turkey.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Cox's Bazar , Bangladesh",
+        "content": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.",
+        "fee": 2500,
+        "img": "https://i.ibb.co/Dz5vB8s/coxs-bazar.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Saint Martin, Bangladesh",
+        "content": "St. Martin's Island is a small island in the northeastern part of the Bay of Bengal, about 9 km south of the tip of the Cox's Bazar-Teknaf peninsula, and forming the southernmost part of Bangladesh. There is a small adjoining island that is separated at high tide, called Chera Dwip.",
+        "fee": 2500,
+        "img": "https://i.ibb.co/K02QpWp/Saint-Martin-Bangladesh.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Sajek Valley, Bangladesh",
+        "content": "Sajek Valley is one of the popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District. The valley is 2,000 feet above sea level. Sajek valley is known as the Queen of Hills & Roof of Rangamati.",
+        "fee": 2500,
+        "img": "https://i.ibb.co/Vx6L3fG/sajek-Valley-bangladesh.jpg"
+    }
+]

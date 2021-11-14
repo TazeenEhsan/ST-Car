@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": " PROF. DR. SHAMIM AHMED",
+        "content": "Kidney Transplant",
+        "fee": 1500,
+        "img": "https://i.ibb.co/h2BpT4c/kidney.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Prof. Dr. Mohammad Sharifuzzaman ",
+        "content": "Cardiac Surgery",
+        "fee": 3000,
+        "img": "https://i.ibb.co/1MR9L2r/cardiac.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dr. M. Nuruzzaman Khan",
+        "content": "Spine Surgery",
+        "fee": 3000,
+        "img": "https://i.ibb.co/QNXVqYR/spine.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Lt. Col.(Dr.) A.H. Abedur Reza(Rtd.)",
+        "content": "Radiology",
+        "fee": 3000,
+        "img": "https://i.ibb.co/6szHM77/radio.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Professor Dr, Nasir Uddin ",
+        "content": "Dental Sciences",
+        "fee": 3000,
+        "img": "https://i.ibb.co/py3VjmH/dental.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Prof. Dr. Nazir Ahmed",
+        "content": " Cardiology",
+        "fee": 3000,
+        "img": "https://i.ibb.co/g3JLmHH/cardiology.jpg"
+    }
+]

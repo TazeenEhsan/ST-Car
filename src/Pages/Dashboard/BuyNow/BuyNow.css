@@ -1,0 +1,11 @@
+.booking-form{
+ border: 4px solid goldenrod;
+  border-radius: 7px;
+  padding: 20px;
+}
+.booking-form input , textarea{
+    width: 70%;
+    margin: 20px;
+    border-radius: 7px;
+    padding: 10px;
+}

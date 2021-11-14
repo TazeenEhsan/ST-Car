@@ -1,0 +1,19 @@
+.orders-con{
+    border: 5px solid goldenrod;
+    border-radius: 5px;
+    padding: 10px;
+}
+.order{
+    display: flex;
+    border: 3px solid rgb(59, 57, 52);
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.order p ,h6{
+    margin: 10px;
+    
+}
+.order button{
+    margin-left: 12px;
+    
+}

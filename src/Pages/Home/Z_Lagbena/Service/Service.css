@@ -1,0 +1,91 @@
+.service-container img{
+    width: auto;
+    height:300px;
+    /* width: 400px; */
+    border-radius: 19px;
+
+}
+.service-container{
+    display: flex;
+    
+    flex-direction: column;
+    width: auto;
+    border: 2px solid #1d1313;
+    border-radius: 19px;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: rgba(182, 207, 229, 0.897); */
+    background-color: rgb(77 199 225 / 32%);
+    /* height: fit-content; */
+    height: max-content;
+    /* height: 1500; */
+    
+}
+.service-container .card{
+    
+    border-radius: 19px;
+    
+}
+.service-container button{
+    
+    background-color: goldenrod;
+    border-radius: 5px;
+     margin: 5px;
+    
+}
+.service-container .detailsbtn{
+    
+    background-color: rgb(143, 216, 7);
+    border-radius: 5px;
+     margin: 5px;
+    
+}
+.service-container .bookbtn{
+    
+    background-color: rgb(66, 57, 151);
+    border-radius: 5px;
+    color: rgb(255, 184, 6);
+     margin: 5px;
+    
+}
+.service-container:hover{
+    
+    border-radius: 19px;
+    border: 5px solid rebeccapurple;
+    box-shadow:5px 5px rgb(53, 14, 194);
+    
+}
+.body-part{
+    /* background-color: aqua; */
+    padding: 20px;
+}
+
+.image-part{
+    width: auto;
+}
+
+
+@media only screen and (max-width:688px) {
+    .service-container{
+    display: flex;
+    flex-direction:column;
+    width: 300px;
+    }
+    .service-container img{
+    /* width: auto; */
+    height:250px;
+    width: auto;
+    border-radius: 19px;
+    }
+    .body-part{
+        padding: 10px;
+    }
+}
+@media only screen and (min-width:689px) and (max-width: 991px){
+    .service-container{
+         display: flex;
+    flex-direction: column;
+    width: auto;
+    }
+}    
